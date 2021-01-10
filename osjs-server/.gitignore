@@ -1,0 +1,6 @@
+/session-store.db
+/coverage
+.swp
+.tern-*
+node_modules
+package-lock.json
